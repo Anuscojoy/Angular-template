@@ -1,5 +1,10 @@
 a.active{
     color:#4761FF;
     font-weight: bold;
+   
 }
 
+ a.active .dropdown-item {
+    color:white !important;
+
+ }
